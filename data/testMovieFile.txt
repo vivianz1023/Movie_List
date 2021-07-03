@@ -1,0 +1,3 @@
+8.9,The Lord of the Rings,Peter Jackson
+7.9,Iron Man,Jon Favreau
+7.8,Titanic,James Cameron
